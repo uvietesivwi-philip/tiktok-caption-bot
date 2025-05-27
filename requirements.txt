@@ -1,0 +1,6 @@
+yt-dlp
+ffmpeg-python
+Flask
+pysrt
+requests
+python-telegram-bot
