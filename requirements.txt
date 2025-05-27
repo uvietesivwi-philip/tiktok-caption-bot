@@ -4,3 +4,4 @@ Flask
 pysrt
 requests
 python-telegram-bot
+gunicorn
